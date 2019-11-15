@@ -1,0 +1,15 @@
+body {
+  width: 700px;
+  color: #333;
+  font-size: 18px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+p{
+  font-size: 10px;
+}
+
+h1{
+  font-size: 37px;
+  font-family: tahoma, Helvetica, sans-serif;
+  line-height: 46px;
+}
