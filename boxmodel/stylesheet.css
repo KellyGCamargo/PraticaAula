@@ -1,0 +1,45 @@
+header {
+  background-color: white;
+  height:90px;
+}
+
+img#cetalogomeu {
+  height: 52px;
+}
+
+header div {
+  display: inline-block;
+}
+
+header nav {
+  display: inline-block;
+}
+
+header nav ul li {
+  display: inline-block;
+  width: 155px;
+}
+
+main {
+  background-color: grey;
+  height: 300px;
+}
+
+footer {
+  background-color: black;
+  height: 200px;
+}
+
+aside {
+  background-color: yellow;
+  height: 300px;
+  width: 20%;
+  display: inline-block;
+}
+
+section{
+  background-color: purple;
+  height: 300px;
+  width: 79%;
+  display:inline-block;
+}

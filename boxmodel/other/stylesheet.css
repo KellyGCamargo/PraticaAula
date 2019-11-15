@@ -1,0 +1,28 @@
+header {
+  background-color: white;
+  height:90px;
+}
+
+main {
+  background-color: grey;
+  height: 300px;
+}
+
+footer {
+  background-color: black;
+  height: 200px;
+}
+
+div {
+  background-color: yellow;
+  height: 300px;
+  width: 50%;
+  display: inline-block;
+}
+
+section {
+  background-color: purple;
+  height: 300px;
+  width: 49%;
+  display:inline-block;
+}

@@ -1,0 +1,21 @@
+header {
+  background-color: blue;
+  height: 68px;
+  display: block;
+}
+
+  header img {
+    display: inline-block;
+    height: 68px;
+  }
+
+  header nav {
+    display: inline-block;
+    float: right;
+  }
+
+    header nav ul li {
+      display: inline-block;
+      margin-right: 20px;
+      font-size: 58px;
+    }
